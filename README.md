@@ -1,8 +1,4 @@
-| ![Isaac Zainea](https://raw.githubusercontent.com/Izainea/Izainea.github.io/master/logo.png) | Seminario de programación MINE | Isaac Zainea |
-|:---:|:---------------------------------------------------------------------------:|:---:|
----
-
-# Seminario de programación
+## Proyecto Prueba de APIs
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Izainea/api_review)
 ![GitHub contributors](https://img.shields.io/github/contributors/Izainea/api_review)
