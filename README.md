@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Proyecto Prueba de APIs
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Izainea/api_review)
@@ -48,3 +49,6 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 ---
 
 Hecho con ❤ por [izainea](https://izainea.github.io/)
+=======
+# Taller_Juan_Angie
+>>>>>>> 1c39f24bc7c110a84bb2cac663d0058e484a7912
